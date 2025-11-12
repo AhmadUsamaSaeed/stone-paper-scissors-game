@@ -1,23 +1,3 @@
-# requirment
-
-### 🧠 **Game Logic & Structure**
-# Loop the game** — let players play multiple rounds until they choose to quit. done
-# Add score tracking** — keep count of wins, losses, and ties for both player and computer. done
-# Best of N** — let the user decide how many rounds to play (e.g., best of 3, 5, etc.).
-# Replay option** — ask if the user wants to play again after each game.done
-
-### 💻 **Interface Improvements**
-# Use colors or emojis** — to make it more visually fun (`stone 🪨`, `paper 📄`, `scissors ✂️`).
-# Clear output** — use line breaks or separators for readability.
-
-
-### ⚙️ **Code & Design**
-# Use functions for modularity** — e.g., separate input, logic, and display parts.
-#Error handling** — handle invalid inputs gracefully (like typos).
-
-### 🧩 **Extra Fun Features**
-# 13. **Leaderboard / score file** — store scores in a file (`scores.txt` or JSON).
-
 import random
 def gameRandom():
  
